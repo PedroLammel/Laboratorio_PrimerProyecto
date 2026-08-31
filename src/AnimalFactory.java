@@ -1,3 +1,3 @@
-public class AnimalFactory {
-    
+public interface AnimalFactory {
+    public Animal crearAnimal();
 }
