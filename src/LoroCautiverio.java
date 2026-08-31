@@ -1,0 +1,6 @@
+/**
+ * LoroCautiverio
+ */
+public class LoroCautiverio {
+
+}

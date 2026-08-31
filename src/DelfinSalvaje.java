@@ -1,0 +1,6 @@
+/**
+ * DelfinSalvaje
+ */
+public class DelfinSalvaje {
+
+}
