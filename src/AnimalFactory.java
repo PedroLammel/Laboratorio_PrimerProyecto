@@ -1,3 +1,5 @@
 public interface AnimalFactory {
-    public Animal crearAnimal();
+    Loro createLoro();
+    Delfin createDelfin();
+    Gorila createGorila();
 }
