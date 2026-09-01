@@ -1,6 +1,4 @@
-/**
- * DelfinCautiverio
- */
-public class DelfinCautiverio {
+
+public class DelfinCautiverio implements Delfin {
 
 }

@@ -1,6 +1,6 @@
 /**
  * LoroCautiverio
  */
-public class LoroCautiverio {
+public class LoroCautiverio  implements Loro {
 
 }

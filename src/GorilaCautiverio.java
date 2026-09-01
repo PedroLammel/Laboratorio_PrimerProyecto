@@ -1,6 +1,6 @@
 /**
  * GorilaCautiverio
  */
-public class GorilaCautiverio {
+public class GorilaCautiverio  implements Gorila {
 
 }

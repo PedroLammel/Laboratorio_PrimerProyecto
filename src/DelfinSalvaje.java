@@ -1,6 +1,4 @@
-/**
- * DelfinSalvaje
- */
-public class DelfinSalvaje {
+
+public class DelfinSalvaje implements Delfin {
 
 }

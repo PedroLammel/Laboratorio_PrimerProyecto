@@ -1,6 +1,6 @@
 /**
  * LoroSalvaje
  */
-public class LoroSalvaje {
+public class LoroSalvaje implements Loro {
 
 }

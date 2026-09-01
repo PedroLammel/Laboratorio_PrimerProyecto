@@ -1,6 +1,3 @@
-/**
- * GorilaSalvaje
- */
-public class GorilaSalvaje {
+public class GorilaSalvaje implements Gorila {
 
 }
