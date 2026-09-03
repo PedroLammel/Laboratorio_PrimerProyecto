@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class App {
     public static void main(String[] args) throws Exception {
-        AnimalFactory fabrica;
+        AnimalFactory fabrica = null;
         Scanner in = new Scanner(System.in);
         int opcion;
         boolean correcto = false;
@@ -22,8 +22,13 @@ public class App {
                 System.out.println("Opcion invalida");
             }
         }
-    
-
+        
+        Gorila gorila = fabrica.createGorila();
+        gorila.buscarComida();  
+        Delfin delfin = fabrica.createDelfin();
+        delfin.nadar();
+        Loro loro = fabrica.createLoro();
+        loro.volar();
         
         
 
